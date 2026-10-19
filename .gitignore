@@ -36,3 +36,5 @@ x86/
 
 # Local environment overrides
 appsettings.*.local.json
+
+*.db
